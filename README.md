@@ -1,2 +1,1 @@
-# proiect
-proiect blog
+# blog-curs-php
